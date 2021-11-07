@@ -23,6 +23,7 @@ body {
 }
 #home {
     margin-top: 50px;
+    margin-bottom: -50px;
 }
 #about{
     padding-bottom: 5rem;
